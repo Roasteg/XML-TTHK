@@ -33,6 +33,7 @@ $kakstuhat_kassid = array_filter($kassid, 'filter_condition');
     <title>Kassid XML tabelist</title>
 </head>
 <body>
+<h1>XML PHP Arvestus</h1>
 <table>
     <th>Nimi</th>
     <th>Sünniaeg</th>
@@ -68,6 +69,6 @@ $kakstuhat_kassid = array_filter($kassid, 'filter_condition');
 
     ?>
 </table>
-<a href=""></a>
+<a href="https://github.com/Roasteg/XML-TTHK">Github</a>
 </body>
 </html>
